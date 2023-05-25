@@ -1,4 +1,4 @@
-// cspConfigModule.js
+//
 
 const { createHash } = require('crypto');
 
