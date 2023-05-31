@@ -1,6 +1,6 @@
 # firefox-metamask-csp
 A solution that allows injection without compromising content-security-policy
-
+*note-this project is very experimental*
 1. Install dependencies:
    - Install Node.js and npm (Node Package Manager) on your machine.
    - Set up a new Node.js project by running `npm init` in your project's root directory.
